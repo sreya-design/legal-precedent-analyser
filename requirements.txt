@@ -1,0 +1,8 @@
+unstructured[all-docs]
+langchain-chroma
+langchain-openai
+langchain-community
+chromadb
+gradio
+sentence-transformers
+openai
